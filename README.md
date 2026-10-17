@@ -41,6 +41,7 @@ Country availability and fees change often, so check the linked official page be
 
 ## Merchant of Record
 
+- [AgentaOS](https://agentaos.ai/pricing) - Merchant of record for SaaS, digital products and services that sells in its own name, handles VAT and sales tax, and pays sellers out in 85+ countries. Fees: 4.5% + €0.50 per sale.
 - [Cleverbridge](https://grow.cleverbridge.com/) - Merchant of record for software and SaaS sellers, taking on payments, tax and compliance. Availability: 240+ markets.
 - [Creem](https://www.creem.io/pricing) - Checkout and billing aimed at indie software and AI products, handling tax, refunds and chargebacks. Fees: 3.9% + 40c per successful transaction.
 - [Dodo Payments](https://dodopayments.com/pricing) - Billing for digital products and SaaS, covering global tax compliance, disputes and invoicing. Fees: 4% + 40c per domestic US transaction for cards and wallets.
